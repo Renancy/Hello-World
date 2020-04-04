@@ -1,0 +1,8 @@
+#All this codes must be run at Git Dash 
+>git clone <url> # clones a especific repository to your machine
+>git touch x.file #create an empty file
+>git add x.file #add a file I want to track next time I save
+>git commit -m "message"
+>git status #tell the current status of your repository
+>git push # send back the changes you made 
+>git pull # the inverse of git push
